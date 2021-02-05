@@ -29,7 +29,7 @@ switch($letra)
 <html>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
-    <title>Aula 4 de PHP - Vetores / Arrays</title>
+    <title>Aula 6 de PHP - Switch-case </title>
 
   </head>
   <body> 
